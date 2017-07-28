@@ -1,5 +1,5 @@
 # Teach Kids To Code
-## A work-in-progress document for researching resources to teach grade 6-7 students to code. Meant to be used with GIRLSmarts4Tech.
+A work-in-progress document for researching resources to teach grade 6-7 students to code. Meant to be used with GIRLSmarts4Tech.
 
 ## [Made w/ Code](https://www.madewithcode.com/home/)
 Tutorials created by Google with the goal of teaching girls to code. The language is block-based, similar to Scratch.
