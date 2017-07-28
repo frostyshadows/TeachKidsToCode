@@ -19,6 +19,7 @@ Website allowing users to create functioning Android apps using drag and drop bl
 ### Pros
 * Kids get to create real apps!
 * Open ended, they can be creative
+* There are tutorials that we can work off of
 ### Cons
 * Logistics of getting devices/setting up emulators
 * There are many parts to App Inventor, like palette, components, blocks, etc. Could be hard to cover everything in one hour. To mitigate that, we could just explain the parts that the girls will actually use.
