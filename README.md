@@ -2,7 +2,7 @@
 A work-in-progress document for researching resources to teach grade 6-7 students to code. Meant to be used with GIRLSmarts4Tech.
 
 ## [Made w/ Code](https://www.madewithcode.com/home/)
-Tutorials created by Google with the goal of teaching girls to code. The language is block-based, similar to Scratch. Out of the ones I tried, most were very simple but Wonder Woman was a bit difficult.
+Tutorials created by Google with the goal of teaching girls to code. The language is block-based, similar to Scratch. 
 ### Pros
 * Variety of activities
 * Activities should be fun for elementary school girls
@@ -13,6 +13,9 @@ Tutorials created by Google with the goal of teaching girls to code. The languag
 * The tutorials I tried out would be too easy for girls who have already done Scratch. And most of them probably won't take an hour. 
 * Not very open-ended. Girls would be able to customize a lot of the end result, but they don't get to make anything from scratch.
 
+### Thoughts
+* Wonder Woman may be too difficult, took me several tries to get past level 2 (lol)
+* Accessorizer is too easy, definitely won't take an hour and doesn't cover conditionals and loops
 
 ## [MIT App Inventor](http://appinventor.mit.edu/explore/)
 Website allowing users to create functioning Android apps using drag-and-drop blocks.
